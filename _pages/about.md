@@ -12,7 +12,7 @@ Gaurav is currently a PhD Candididate in Machine Learning at University College 
 
 Background
 ------
-Before starting PhD, Gaurav was an intern at Yahoo! labs, Barcelona. Prior to that he did his Masters in Data Mining from University of Pierre and Marie Curie, France, supported by Erasmus Mundus Category A scholarship. Before starting his Masters, he was a Software Developer at Visualwebsiteoptimizer.com for a year, right after he got his Bachelor of Engineering degree from Delhi College of Engineering, University of Delhi, India.  
+Before starting PhD, Gaurav was an intern at Yahoo! labs, Barcelona. Prior to that he did his Masters in Data Mining from University of Pierre and Marie Curie, France, supported by Erasmus Mundus Category A scholarship. Before that, he obtained his Bachelor of Engineering degree from Delhi College of Engineering, University of Delhi, and worked as a Software Developer atVisualwebsiteoptimizer.com for a year. 
 
 
 Contact me:
