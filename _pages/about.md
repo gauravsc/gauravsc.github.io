@@ -12,7 +12,7 @@ Gaurav is currently a PhD Candididate in Machine Learning at University College 
 
 Recent
 ------
-He spent the last summer working as an intern at Amazon on the problem of relation extraction from biomedical text.
+He spent the last summer working as an NLP Scientist Intern at Amazon, Seattle. There he worked on the problem of Relation Extraction from Biomedical Text.
 
 Background
 ------
