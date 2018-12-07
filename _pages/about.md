@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Gaurav is currently a PhD Candididate in Machine Learning at University College London, United Kingdom. His research is focussed on information extraction from unstructured text in general, and biomedical text in particular. He is also interested in speeding up training of deep learning models, with improved generalization, and making them more robust to adversarial noise. 
+Gaurav is currently a PhD Candididate in Machine Learning at University College London, United Kingdom. His research is focussed on information extraction from unstructured text in general, and biomedical text in particular. He is also interested in speeding up training of Deep Learning models, with improved generalization, and making them more robust to adversarial noise. 
 
 Background
 ------
