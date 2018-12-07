@@ -17,6 +17,4 @@ Before starting PhD, Gaurav was an intern at Yahoo! labs, Barcelona. Prior to th
 
 Contact me:
 ------
-Ask python for help!
-
-".".join( ['ku', 'ca', 'lcu', 'sc@hgnis', 'g'])[::-1]     
+g.singh [AT] cs.ucl.ac.uk
