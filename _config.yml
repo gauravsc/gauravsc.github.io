@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gaurav's Personal Webpage"
+title                    : "Gaurav's Homepage"
 title_separator          : "-"
 name                     : &name "Gaurav Singh"
 description              : &description "personal description"
