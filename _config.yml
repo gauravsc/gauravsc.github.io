@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gaurav Singh"
   avatar           : "profile.jpg"
-  bio              : "into ML, AI & Blockchain. Previously worked @wingify, @yahoo and @amazon. Doing PhD in ML @UCL. Follows Politics. Plays Table Tennis"
+  bio              : "Interested in ML, AI & Blockchain. Previously worked @wingify, @yahoo and @amazon. Doing PhD in ML @UCL. Follows Politics. Plays Table Tennis"
   location         : "London"
   employer         :
   googlescholar    : ""
@@ -206,14 +206,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
