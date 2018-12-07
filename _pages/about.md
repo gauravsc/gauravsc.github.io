@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Gaurav is currently a PhD Candididate in ML at University College London, United Kingdom. His research is focussed on information extraction from unstructured text in general, and biomedical text in particular. He is also interested in speeding up training of deep learning models, with improved generalization, and making them more robust to adversarial noise. 
+Gaurav is currently a PhD Candididate in Machine Learning at University College London, United Kingdom. His research is focussed on information extraction from unstructured text in general, and biomedical text in particular. He is also interested in speeding up training of deep learning models, with improved generalization, and making them more robust to adversarial noise. 
 
 Background
 ------
-Before starting PhD, Gaurav was an intern at Yahoo! labs, Barcelona. He did his undergrad in Computer Science from Delhi College of Engineering, University of Delhi, India, and worked for a year as a software developer for Visualwebsiteoptimizer.com. After that he did MS in Data Mining at University of Pierre and Marie Curie, France, supported by Erasmus Mundus Category A scholarship.
+Before starting PhD, Gaurav was an intern at Yahoo! labs, Barcelona. Prior to that he did his Masters in Data Mining from University of Pierre and Marie Curie, France, supported by Erasmus Mundus Category A scholarship. Before starting his Masters, he was a Software Developer at Visualwebsiteoptimizer.com for a year. He did his Undergrad at Delhi College of Engineering, University of Delhi, India.  
 
 
 Contact me:
