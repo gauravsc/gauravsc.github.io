@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Gaurav is currently a PhD Candididate in ML/NLP at University College London, United Kingdom. His PhD research is focussed on information extraction from unstructured text in general, and biomedical text in particular. He is also interested in the improving speed and generalization of deep learning models. 
+Gaurav is currently a PhD Candididate in ML/NLP at University College London, United Kingdom. His PhD research is focussed on information extraction from unstructured text in general, and biomedical text in particular. He is also interested in speeding up training of deep learning models, with improved generalization. 
 
 
-Before starting his PhD, he was an intern at Yahoo! labs. Prior to that he was a Master's student in Data Mining at Unipersity of Pierre and Marie Curie, France and University of Piemonte Orientale, Italy, as an Erasmus Mundus Category A scholar. Before that he was a software engineer at Visualwebsiteoptimizer.com. He holds an undegraduate degree in Computer Science from Delhi College of Engineering, University of Delhi, India. 
-
+Before starting his PhD, Gaurav was an intern at Yahoo! labs. Prior to that he was a Master's student in Data Mining at University of Pierre and Marie Curie, France as an Erasmus Mundus Category A scholar. He did his undergrad in Computer Science from Delhi College of Engineering, University of Delhi, India. 
 
 
 Contact me at:
 ------
-Use python for help: ".".join( ['ku', 'ca', 'lcu', 'sc@hgnis', 'g'])[::-1]     
+Ask python for help!
+
+".".join( ['ku', 'ca', 'lcu', 'sc@hgnis', 'g'])[::-1]     
