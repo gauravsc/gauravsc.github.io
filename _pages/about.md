@@ -12,11 +12,11 @@ I am currently a PhD Candididate in Machine Learning at <a href="https://www.ucl
 
 Recent
 ------
-I spent the last summer working as an NLP Scientist Intern at <a href ="https://wwww.amazon.com"> Amazon </a>. There I worked on the problem of <a href="https://en.wikipedia.org/wiki/Relationship_extraction">Relation Extraction</a>a> from biomedical text and clinical notes.
+I spent the last summer working as an NLP Scientist Intern at <a href ="https://wwww.amazon.com"> Amazon</a>. There I worked on the problem of <a href="https://en.wikipedia.org/wiki/Relationship_extraction">Relation Extraction</a> from biomedical text.
 
 Background
 ------
-Before starting PhD, I was an intern at <a href ="https://research.yahoo.com/">Yahoo! labs</a>a>, Barcelona. Prior to that I did my MS in Data Mining from <a href = "http://www.upmc.fr/en/">University of Pierre and Marie Curie </a>, France, supported by Erasmus Mundus category A scholarship. Before that, I obtained my Undergraduate degree in Computer Science from <a href="http://dtu.ac.in/">Delhi College of Engineering</a>, University of Delhi, India. 
+Before starting PhD, I was an intern at <a href ="https://research.yahoo.com/">Yahoo! labs</a>, Barcelona. Prior to that I did my MS in Data Mining from <a href = "http://www.upmc.fr/en/">University of Pierre and Marie Curie</a>, France, supported by Erasmus Mundus category A scholarship. Before that, I obtained my Undergraduate degree in Computer Science from <a href="http://dtu.ac.in/">Delhi College of Engineering</a>, University of Delhi, India. 
 
 <!-- This was followed by working as a Software Developer at Visualwebsiteoptimizer.com for a year.  -->
 
