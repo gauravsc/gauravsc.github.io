@@ -16,11 +16,11 @@ I spent the last summer working as an NLP Scientist Intern at <a href ="https://
 
 Background
 ------
-Before starting PhD, I was an intern at <a href ="https://research.yahoo.com/">Yahoo! labs</a>, Barcelona. Prior to that I did my MS in Data Mining from <a href = "http://www.upmc.fr/en/">University of Pierre and Marie Curie</a>, France, supported by Erasmus Mundus category A scholarship. Before that, I obtained my Undergraduate degree in Computer Science from <a href="http://dtu.ac.in/">Delhi College of Engineering</a>, University of Delhi, India. 
+Before starting PhD, I was an intern at <a href ="https://research.yahoo.com/">Yahoo! labs</a>, Barcelona. Prior to that I did my MS in Data Mining from <a href = "http://www.upmc.fr/en/">University of Pierre and Marie Curie</a>, France, supported by Erasmus Mundus category A scholarship. Before that, I obtained my BE in Computer Science from <a href="http://dtu.ac.in/">Delhi College of Engineering</a>, University of Delhi, India. 
 
 <!-- This was followed by working as a Software Developer at Visualwebsiteoptimizer.com for a year.  -->
 
 
 Contact me:
 ------
-g.singh [AT] cs.ucl.ac.uk
+g.singh [at] cs.ucl.ac.uk
