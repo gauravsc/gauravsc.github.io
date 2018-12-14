@@ -12,7 +12,7 @@ I am currently a <a href="http://www.cs.ucl.ac.uk/people/G.Singh.html/">PhD Cand
 
 Recent
 ------
-I spent the last summer as an NLP Scientist Intern at <a href ="https://wwww.amazon.com"> Amazon</a>, where I worked on the problem of <a href="https://en.wikipedia.org/wiki/Relationship_extraction">Relation Extraction</a> from biomedical text.
+I spent the last summer as an NLP Scientist Intern at <a href ="https://www.amazon.com"> Amazon</a>, where I worked on the problem of <a href="https://en.wikipedia.org/wiki/Relationship_extraction">Relation Extraction</a> from biomedical text.
 
 Background
 ------
