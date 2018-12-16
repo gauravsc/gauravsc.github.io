@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a <a href="http://www.cs.ucl.ac.uk/people/G.Singh.html/">PhD Candididate</a> in Machine Learning at <a href="https://www.ucl.ac.uk/">University College London</a>, United Kingdom. My research is focussed on Information Extraction from unstructured text in general, and biomedical text in particular. I have also done work in speeding up training of <a href ="https://arxiv.org/abs/1807.11414">deep learning models</a>, with improved generalization, and making them more robust to adversarial noise. 
+I am currently a <a href="http://www.cs.ucl.ac.uk/people/G.Singh.html/">PhD Candididate</a> in Machine Learning at <a href="https://www.ucl.ac.uk/">University College London</a>, United Kingdom. My research is focussed on Information Extraction from unstructured text in general, and biomedical text in particular. I am also interested in speeding up training of <a href ="https://arxiv.org/abs/1807.11414">deep learning models</a>, with improved generalization, and making them more robust to adversarial noise. 
 
 Recent
 ------
@@ -17,7 +17,7 @@ Spent the summer (Jun 2018 - Sep 2018) working as an NLP Scientist Intern at <a 
 Background
 ------
 * Research Intern at <a href ="https://research.yahoo.com/">Yahoo! labs</a> from Feb 2014 - Sep 2015 
-* MS in Machine Learning at <a href = "http://www.upmc.fr/en/">University of Pierre and Marie Curie</a> (Erasmus Mundus Scholarship) from Oct-2012 to Sep-2014
+* MS in Machine Learning at <a href = "http://www.upmc.fr/en/">University of Pierre and Marie Curie</a> (Erasmus Mundus Scholarship) from Oct 2012 - Sep 2014
 * Software Engineer at <a href="http://wingify.com/">Wingify</a> from Aug 2011 - July 2012
 * Bachelor of Engineering in Computer Science at <a href="http://dtu.ac.in/">Delhi College of Engineering</a> from Sep 2007 - July 2011 
 
