@@ -12,14 +12,14 @@ I am currently a <a href="http://www.cs.ucl.ac.uk/people/G.Singh.html/">PhD Cand
 
 Recent
 ------
-I spent the last summer as an NLP Scientist Intern at <a href ="https://www.amazon.com"> Amazon</a>, where I worked on the problem of <a href="https://en.wikipedia.org/wiki/Relationship_extraction">Relation Extraction</a> from biomedical text.
+Spent the summer (Jun 2018 - Sep 2018) working as an NLP Scientist Intern at <a href ="https://www.amazon.com"> Amazon</a>
 
 Background
 ------
-* Research Intern at <a href ="https://research.yahoo.com/">Yahoo! labs</a> from Feb-2014 to Sep-2015 
+* Research Intern at <a href ="https://research.yahoo.com/">Yahoo! labs</a> from Feb 2014 - Sep 2015 
 * MS in Machine Learning at <a href = "http://www.upmc.fr/en/">University of Pierre and Marie Curie</a> (Erasmus Mundus Scholarship) from Oct-2012 to Sep-2014
-* Software Engineer at <a href="http://wingify.com/">Wingify</a> from Aug-2011 to July-2012
-* Bachelor of Engineering in Computer Science at <a href="http://dtu.ac.in/">Delhi College of Engineering</a> from Sep-2007 to July-2011 
+* Software Engineer at <a href="http://wingify.com/">Wingify</a> from Aug 2011 - July 2012
+* Bachelor of Engineering in Computer Science at <a href="http://dtu.ac.in/">Delhi College of Engineering</a> from Sep 2007 - July 2011 
 
 
 
