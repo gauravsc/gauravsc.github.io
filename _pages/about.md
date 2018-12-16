@@ -16,7 +16,13 @@ I spent the last summer as an NLP Scientist Intern at <a href ="https://www.amaz
 
 Background
 ------
-I was a research intern at <a href ="https://research.yahoo.com/">Yahoo! labs</a> from Feb-2014 to Sep-2015. I did my MS in Data Mining at <a href = "http://www.upmc.fr/en/">University of Pierre and Marie Curie</a> supported by Erasmus Mundus Scholarship from Oct-2012 to Sep-2014. I worked as a Software Engineer at <a href="http://wingify.com/">Wingify</a> from Aug-2011 to July-2012. Prior to that, I did Bachelor of Engineering in Computer Science from Sep-2007 to July-2011 at <a href="http://dtu.ac.in/">Delhi College of Engineering</a>, University of Delhi. 
+Research Intern at <a href ="https://research.yahoo.com/">Yahoo! labs</a> from Feb-2014 to Sep-2015 
+
+MS in Data Mining at <a href = "http://www.upmc.fr/en/">University of Pierre and Marie Curie</a> supported by Erasmus Mundus Scholarship from Oct-2012 to Sep-2014
+
+Software Engineer at <a href="http://wingify.com/">Wingify</a> from Aug-2011 to July-2012
+
+Bachelor of Engineering in Computer Science from Sep-2007 to July-2011 at <a href="http://dtu.ac.in/">Delhi College of Engineering</a>, University of Delhi
 
 
 
