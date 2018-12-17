@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a <a href="http://www.cs.ucl.ac.uk/people/G.Singh.html/">PhD Candididate</a> in Machine Learning at <a href="https://www.ucl.ac.uk/">University College London</a>, United Kingdom. My research is focussed on Information Extraction from unstructured text in general, and biomedical text in particular. I am also interested in speeding up training of <a href ="https://arxiv.org/abs/1807.11414">deep learning models</a>, with improved generalization, and making them more robust to adversarial noise. 
+I am currently a <a href="http://www.cs.ucl.ac.uk/people/G.Singh.html/">PhD Candididate</a> in Machine Learning at <a href="https://www.ucl.ac.uk/">University College London</a>. My research is focussed on Information Extraction from unstructured text in general, and biomedical text in particular. I am also interested in speeding up training of <a href ="https://arxiv.org/abs/1807.11414">deep learning models</a>, with improved generalization, and making them more robust to adversarial noise. 
 
 Recent
 ------
