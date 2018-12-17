@@ -19,7 +19,7 @@ Background
 * Research Intern at <a href ="https://research.yahoo.com/">Yahoo! labs</a> from Feb 2014 - Sep 2015 
 * MS in Machine Learning at <a href = "http://www.upmc.fr/en/">University of Pierre and Marie Curie</a> (funded by Erasmus Mundus Scholarship) from Oct 2012 - Sep 2014
 * Software Engineer at <a href="http://wingify.com/">Wingify</a> from Aug 2011 - July 2012
-* BE in Computer Science at <a href="http://dtu.ac.in/">Delhi College of Engineering</a> from Sep 2007 - July 2011 
+* BE in CS at <a href="http://dtu.ac.in/">Delhi College of Engineering</a> from Sep 2007 - July 2011 
 
 
 
