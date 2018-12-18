@@ -12,7 +12,7 @@ I am currently a <a href="http://www.cs.ucl.ac.uk/people/G.Singh.html/">PhD Cand
 
 Recent
 ------
-NLP Scientist Intern at <a href ="https://www.amazon.com"> Amazon</a> (Jun 2018 - Sep 2018)
+Scientist Intern at <a href ="https://www.amazon.com"> Amazon</a> (Jun 2018 - Sep 2018)
 
 Background
 ------
