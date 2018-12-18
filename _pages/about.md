@@ -17,7 +17,7 @@ Scientist Intern at <a href ="https://www.amazon.com"> Amazon</a> Jun 2018 - Sep
 Background
 ------
 * Research Intern at <a href ="https://research.yahoo.com/">Yahoo! labs</a> Feb 2014 - Sep 2015 
-* MS in Data Mining at <a href = "http://www.upmc.fr/en/">UPMC</a> (Funded by Erasmus Mundus Scholarship) Oct 2012 - Sep 2014
+* MS in Data Mining at <a href = "http://www.upmc.fr/en/">UPMC</a>  Oct 2012 - Sep 2014 (Funded by Erasmus Mundus Scholarship)
 * Software Engineer at <a href="http://wingify.com/">Wingify</a> Aug 2011 - July 2012
 * BE in CS at <a href="http://dtu.ac.in/">Delhi College of Engineering</a> Sep 2007 - July 2011 
 
