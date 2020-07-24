@@ -12,7 +12,7 @@ I've a PhD in NLP from <a href="https://www.ucl.ac.uk/">University College Londo
 
 Recent
 ------
-I was trying to co-found a company at Entrepeneur First (https://www.joinef.com/demoday) for the past 3 months
+I was trying to co-found a company at Entrepeneur First (https://www.joinef.com) for the past 3 months
 
 Work Experience
 ------
