@@ -24,7 +24,7 @@ Work Experience
 Education
 ------
 * PhD in NLP from University College London Dec 2015 - Jul 2019
-* MS in ML from UPMC Oct 2012 - Sep 2014 
+* MS in ML from Pierre and Marie Curie University Oct 2012 - Sep 2014 
 * BE in CS from Delhi College of Engineering Sep 2007 - July 2011 
 
 
