@@ -12,7 +12,7 @@ I'm currently working as a senior applied scientist at amazon. I've a PhD in NLP
 
 Recent
 ------
-I was trying to co-found a company at Entrepeneur First (<a href="https://www.joinef.com">joinef.com</a>) for the past 3 months. Previously, I co-founded an AI for scientific discovery company working out of Cambridge University (JBS) startup accelerator.  
+I was trying to co-found a company at Entrepeneur First (<a href="https://www.joinef.com">joinef.com</a>) for the past 3 months. Previously, I co-founded an artificial intelligence for scientific discovery company working out of Cambridge University (JBS) startup accelerator.  
 
 Work Experience
 ------
