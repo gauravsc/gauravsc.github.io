@@ -19,7 +19,7 @@ Work Experience
 * Senior Applied Scientist @ Amazon Sep 2020 - Present
 * Senior Research Scientist @ Mediatek Research Nov 2019 - Apr 2020
 * Applied Scientist Intern @ Amazon Jun 2018 - Sep 2018
-* Researcher @ Yahoo Feb 2014 - Sep 2015
+* Researcher @ Yahoo! Labs Feb 2014 - Sep 2015
 * Software Engineer @ vwo.com Aug 2011 - Sep 2012
 
 Education
