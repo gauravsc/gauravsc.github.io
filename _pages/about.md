@@ -16,7 +16,7 @@ I was trying to co-found a company at Entrepeneur First (<a href="https://www.jo
 
 Work Experience
 ------
-* Applied Scientist II @ Amazon Sep 2020 - Present
+* Applied Scientist II @ Amazon Aug 2020 - Present
 * Co-founder @ AI4MD May 2020 - Aug 2020
 * Senior Research Scientist @ Mediatek Research Nov 2019 - Apr 2020
 * Applied Scientist Intern @ Amazon Jun 2018 - Sep 2018
