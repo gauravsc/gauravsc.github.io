@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently working as an applied scientist at amazon. I've a PhD in NLP from <a href="https://www.ucl.ac.uk/">University College London</a>, supervised by Prof. <a href="http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/">John Shawe-Taylor</a>. My research was focussed on information extraction from unstructured text using deep learning, mainly under constraints of scarce training data. I was also working on speeding up convergence in training deep neural networks, improving generalization, and their robustness to adversarial noise. 
+I'm an applied scientist at amazon. I've a PhD in NLP from <a href="https://www.ucl.ac.uk/">University College London</a>, supervised by Prof. <a href="http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/">John Shawe-Taylor</a>. My research was focussed on information extraction from unstructured text using deep learning, mainly under constraints of scarce training data. I was also working on speeding up convergence in training deep neural networks, improving generalization, and their robustness to adversarial noise. 
 
 Recent
 ------
