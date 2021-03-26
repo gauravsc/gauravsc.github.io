@@ -12,7 +12,7 @@ Currently, I'm a Scientist at Amazon. Prior to that, I've a PhD in NLP from <a h
 
 Recent
 ------
-I was trying to co-found a company at Entrepeneur First (<a href="https://www.joinef.com">joinef.com</a>) for a few months before joining Amazon as an applied scientist in the Alexa team. Previously, I co-founded an artificial intelligence for scientific discovery company working out of Cambridge University's (JBS) startup accelerator.  
+I was trying to co-found a company at Entrepeneur First (<a href="https://www.joinef.com">joinef.com</a>) for a few months before joining Amazon as an Applied Scientist in the Alexa team. Previously, I co-founded an artificial intelligence for scientific discovery company working out of Cambridge University's (JBS) startup accelerator.  
 
 Work Experience
 ------
