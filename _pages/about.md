@@ -12,8 +12,7 @@ Currently, I'm working as a Scientist for Amazon. Prior to that, I've got a PhD 
 
 Recent
 ------
-I'm currently working as an applied scientist in the alexa team. Before joining amazon, I was trying to co-found a company at <a href="https://www.joinef.com">EF</a> for a few months. I also co-founded an artificial intelligence for scientific discovery company working out of Cambridge University's (JBS) startup accelerator in the last year of my PhD.  
-
+I'm currently working as an applied scientist in the alexa team. Before joining amazon, I was trying to co-found a company at <a href="https://www.joinef.com">EF</a> for a few months.
 Work Experience
 ------
 * Applied Scientist II @ Amazon Aug 2020 - Present
