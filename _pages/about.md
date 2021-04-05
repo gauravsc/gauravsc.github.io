@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm a Scientist at Amazon. Prior to that, I've a PhD in NLP from <a href="https://www.ucl.ac.uk/">University College London</a>, supervised by Prof. <a href="http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/">John Shawe-Taylor</a>. My research was focussed on information extraction from unstructured text using deep learning, mainly under constraints of scarce training data. Simultaneously, I was also working on speeding up convergence in training deep neural networks, improving generalization, and their robustness to adversarial noise. 
+Currently, I'm working as a Scientist for Amazon. Prior to that, I've got a PhD in NLP supervised by Prof. <a href="http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/">John Shawe-Taylor</a> from University College London. In PhD my research was focussed on information extraction from unstructured text using deep learning, mainly under constraints of scarce training data. Simultaneously, I also worked on speeding up convergence, improving generalization, and robustness, in deep neural networks. 
 
 Recent
 ------
-I was trying to co-found a company at Entrepeneur First (<a href="https://www.joinef.com">joinef.com</a>) for a few months before joining Amazon as an Applied Scientist in the Alexa team. Previously, I co-founded an artificial intelligence for scientific discovery company working out of Cambridge University's (JBS) startup accelerator.  
+I'm currently working as an applied scientist in the alexa team. Before that I was trying to co-found a company at Entrepeneur First (<a href="https://www.joinef.com">joinef.com</a>) for a few months. In the last year of my PhD I co-founded an artificial intelligence for scientific discovery company working out of Cambridge University's (JBS) startup accelerator.  
 
 Work Experience
 ------
