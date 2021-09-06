@@ -13,7 +13,7 @@ I'm working as a Scientist for Alexa within Amazon. Prior to that I obtained a P
 Recent
 ------
 
-Before joining amazon, I was trying to co-found a company at <a href="https://www.joinef.com">EF</a> for a few months. Previously, I also co-founded an artificial intelligence for scientific discovery company out of Cambridge University's startup accelerator.
+Before joining amazon I was trying to co-found a company at <a href="https://www.joinef.com">EF</a> for a few months. Previously, I also co-founded an artificial intelligence for scientific discovery company out of Cambridge University's startup accelerator.
 
 Work Experience
 ------
