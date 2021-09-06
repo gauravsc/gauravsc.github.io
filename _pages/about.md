@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm working as a Scientist for Alexa within Amazon. Prior to that I obtained a PhD in NLP from University College London, supervised by Prof. <a href="http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/">John Shawe-Taylor</a>. My PhD research was focussed on information extraction from unstructured text using deep learning, mainly under constraints of scarce training data. I also worked on speeding up convergence, improving generalization, and increasing robustness to adversarial noise, in deep neural networks. 
+I'm working as a Scientist in the Alexa group within Amazon's Cambridge office. Prior to that I obtained a PhD in NLP from University College London, supervised by Prof. <a href="http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/">John Shawe-Taylor</a>. My PhD research was focussed on information extraction from unstructured text using deep learning, mainly under constraints of scarce training data. I also worked on speeding up convergence, improving generalization, and increasing robustness to adversarial noise, in deep neural networks. 
 
 Recent
 ------
