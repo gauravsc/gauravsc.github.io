@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm working as a Scientist in the Alexa group within Amazon's Cambridge office. I've a PhD in NLP from University College London, supervised by Prof. <a href="http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/">John Shawe-Taylor</a>. My PhD research was focussed on information extraction from unstructured text using deep learning, mainly under constraints of scarce training data. I also worked on speeding up convergence, improving generalization, and increasing robustness to adversarial noise, in deep neural networks. 
+I am currently working as a Senior Scientist in Binance. In case you do not know, Binance is the world's largest crypto currency exchange by volume and has been involved in building a lot of the infrastructure for the crypto world. I got interested in crypto in 2016 after I first learned about Ethereum. Since then I have been buying, selling, reading, deep-diving into crypto projects as a hobby. Some of the areas of interest to me in the crypto space are web3 infrsstrructure companies, decentralised oracles, decentralised search engines, intersection of machine learning and blockchains etc. Finally, by joining Binance I have made a jump into the crypto world.
 
 Recent
 ------
+Before joining Binance, I was working as an Applied Scientist in the Alexa group within Amazon's Cambridge office. Prior to that I was trying to co-found a company at <a href="https://www.joinef.com">EF</a> for a few months. Previously, I also co-founded an artificial intelligence for scientific discovery company out of Cambridge University's startup accelerator.
 
-Before joining amazon I was trying to co-found a company at <a href="https://www.joinef.com">EF</a> for a few months. Previously, I also co-founded an artificial intelligence for scientific discovery company out of Cambridge University's startup accelerator.
+I've a PhD in NLP from University College London, supervised by Prof. <a href="http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/">John Shawe-Taylor</a>. My PhD research was focussed on information extraction from unstructured text using deep learning, mainly under constraints of scarce training data. I also worked on speeding up convergence, improving generalization, and increasing robustness to adversarial noise, in deep neural networks. 
 
 Work Experience
 ------
