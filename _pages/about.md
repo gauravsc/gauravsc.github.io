@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Senior Scientist in Binance. In case you do not know, Binance is the world's largest crypto currency exchange by volume and has been involved in building a lot of the infrastructure for the crypto world. I got interested in crypto in 2016 after I first learned about Ethereum. Since then I have been buying, selling, reading, deep-diving into crypto projects as a hobby. Some of the areas of interest to me in the crypto space are web3 infrsstrructure companies, decentralised oracles, decentralised search engines, intersection of machine learning and blockchains etc. Finally, by joining Binance I have made a jump into the crypto world.
+I am currently working as a Senior Scientist in Binance. Binance is the world's largest crypto currency exchange by volume and has been involved in building a lot of the infrastructure for the crypto world. 
 
+I got interested in crypto in 2016 after I first learned about Ethereum. Since then I have been buying, selling, reading, deep-diving into crypto projects as a hobby. Some of the areas of interest to me in the crypto space are web3 infrastructure companies, decentralised oracles, decentralised search engines, intersection of machine learning and blockchains etc.
 Recent
 ------
 Before joining Binance, I was working as an Applied Scientist in the Alexa group within Amazon's Cambridge office. Prior to that I was trying to co-found a company at <a href="https://www.joinef.com">EF</a> for a few months. Previously, I also co-founded an artificial intelligence for scientific discovery company out of Cambridge University's startup accelerator.
