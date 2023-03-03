@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Senior Scientist in Binance. Binance is the world's largest crypto currency exchange by volume and has been involved in building a lot of the infrastructure for the crypto world. I also work as an advisor/consultant to startups and investment firms on deeptech and blockchain technology. 
+I am currently working as a Senior Scientist in Binance. Binance is the world's largest crypto currency exchange by volume. In addition, I also work as an advisor/consultant to startups and investment firms on deeptech and blockchain technology. 
 
 Why Web3?
 ------
