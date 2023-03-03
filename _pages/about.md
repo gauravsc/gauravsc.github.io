@@ -12,7 +12,7 @@ I am currently working as a Senior Scientist in Binance. Binance is the world's 
 
 Why Web3?
 ------
-I got interested in crypto in 2016 after I first learned about Ethereum. Since then I have been buying, selling, reading, and deep-diving into crypto projects as a hobby. Some of the areas of interest to me in the crypto space are web3 infrastructure companies, decentralised oracles, decentralised search engines, intersection of machine learning and blockchains etc.
+I got interested in crypto in 2016 after I first learned about Ethereum. Since then I have been buying, selling, reading, and deep-diving into crypto projects. Some of the areas of interest to me in the crypto space are web3 infrastructure companies, decentralised oracles, decentralised search engines, intersection of machine learning and blockchains etc.
 
 Recent
 ------
