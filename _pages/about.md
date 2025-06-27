@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Lead Machine Learning Scientist in Binance, and have previously worked for companies like Amazon and Yahoo. 
+I am currently working as a Machine Learning Engineer building Generative AI applications. I have previously worked as Scientist / ML Engineer for companies like Amazon, Yahoo and Binance. 
 
 
 Recent
