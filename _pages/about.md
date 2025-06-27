@@ -22,8 +22,7 @@ I've a PhD in NLP from University College London, supervised by Prof. <a href="h
 
 Work Experience
 ------
-* Advisor (AI and Blockchain) @ Eharo (VC Fund of Funds) Ltd Mar 2023 - Present
-* Lead ML Scientist @ Binance Jun 2022 - Present
+* Lead ML Scientist @ Binance Jun 2022 - Sep 2024
 * Applied Scientist II @ Amazon Aug 2020 - Jun 2022
 * Co-founder @ AI4MD May 2020 - Aug 2020
 * Applied Scientist Intern @ Amazon Jun 2018 - Sep 2018
