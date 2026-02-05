@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Machine Learning Engineer building Generative AI applications. I have previously worked as Scientist / ML Engineer for companies like Amazon, Yahoo and Binance. 
+I am currently building the tech needed for ai agents that can learn on the job like humans at <a href="https://versanovatech.com">Versanova</a>. I have previously worked as Scientist / ML Engineer for companies like Amazon, Yahoo and Binance. 
 
 
 Recent
@@ -19,10 +19,11 @@ I've a PhD in NLP from University College London, supervised by Prof. <a href="h
 
 Work Experience
 ------
-* Lead ML Scientist @ Binance Jun 2022 - Sep 2024
-* Applied Scientist II @ Amazon Aug 2020 - Jun 2022
-* Researcher @ Yahoo! Labs Feb 2014 - Nov 2015
-* Software Engineer @ vwo.com Aug 2011 - Sep 2012 B
+* Founder @ versanovatech.com 2026 - Present
+* Lead ML Scientist @ Binance  2022 -  2024
+* Applied Scientist II @ Amazon  2020 - 2022
+* Researcher @ Yahoo! Labs 2014 - 2015
+* Software Engineer @ vwo.com 2011 - 2012 
 
 Education
 ------
